@@ -1,0 +1,8 @@
+/media/skynet6/System/workspace/DevWarsztaty/ScoreService/src/ScoreService.API/bin/Debug/netcoreapp1.1/ScoreService.API.deps.json
+/media/skynet6/System/workspace/DevWarsztaty/ScoreService/src/ScoreService.API/bin/Debug/netcoreapp1.1/ScoreService.API.runtimeconfig.json
+/media/skynet6/System/workspace/DevWarsztaty/ScoreService/src/ScoreService.API/bin/Debug/netcoreapp1.1/ScoreService.API.runtimeconfig.dev.json
+/media/skynet6/System/workspace/DevWarsztaty/ScoreService/src/ScoreService.API/bin/Debug/netcoreapp1.1/ScoreService.API.dll
+/media/skynet6/System/workspace/DevWarsztaty/ScoreService/src/ScoreService.API/bin/Debug/netcoreapp1.1/ScoreService.API.pdb
+/media/skynet6/System/workspace/DevWarsztaty/ScoreService/src/ScoreService.API/obj/Debug/netcoreapp1.1/ScoreService.API.AssemblyInfo.cs
+/media/skynet6/System/workspace/DevWarsztaty/ScoreService/src/ScoreService.API/obj/Debug/netcoreapp1.1/ScoreService.API.dll
+/media/skynet6/System/workspace/DevWarsztaty/ScoreService/src/ScoreService.API/obj/Debug/netcoreapp1.1/ScoreService.API.pdb
